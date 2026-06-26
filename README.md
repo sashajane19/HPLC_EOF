@@ -8,3 +8,5 @@ Kramer, S.J., D.A. Siegel, and J.R. Graff (2020). Phytoplankton community compos
 Kramer, S.J. and D.A. Siegel (2019). How can phytoplankton pigments be best used to characterize surface ocean phytoplankton groups for ocean color remote sensing algorithms? Journal of Geophysical Research: Oceans, 124(11), 7557-7574, https://doi.org/10.1029/2019JC015604.
 
 Please notify me if you find errors and/or inaccuracies or if you have any questions!
+
+2026: Now available as a Jupyter notebook, too!
