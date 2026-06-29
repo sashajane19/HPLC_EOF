@@ -9,4 +9,4 @@ Kramer, S.J. and D.A. Siegel (2019). How can phytoplankton pigments be best used
 
 Please notify me if you find errors and/or inaccuracies or if you have any questions!
 
-2026: Now available as a Jupyter notebook, too!
+2026: Now available as a Jupyter notebook and in R, too!
